@@ -1,5 +1,5 @@
 {
-  "name": "react-native-vector-icons",
+  "name": "@nois/react-native-vector-icons",
   "version": "4.7.0",
   "description": "Customizable Icons for React Native with support for NavBar/TabBar/ToolbarAndroid, image source and full styling.",
   "main": "dist/index.js",
@@ -42,10 +42,7 @@
     "retina",
     "font"
   ],
-  "author": {
-    "name": "Joel Arvidsson",
-    "email": "joel@oblador.se"
-  },
+  "author": "Joel Arvidsson <joel@oblador.se>",
   "homepage": "https://github.com/oblador/react-native-vector-icons",
   "bugs": {
     "url": "https://github.com/oblador/react-native-vector-icons/issues"
@@ -63,6 +60,7 @@
   "dependencies": {
     "lodash": "^4.0.0",
     "prop-types": "^15.5.10",
+    "react-native": "^0.55.4",
     "yargs": "^8.0.2"
   },
   "devDependencies": {
@@ -85,5 +83,8 @@
     "opentype.js": "^0.8.0",
     "prettier": "^1.13.3",
     "xml2js": "^0.4.19"
+  },
+  "directories": {
+    "lib": "lib"
   }
 }
