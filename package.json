@@ -1,5 +1,5 @@
 {
-  "name": "@nois/react-native-vector-icons",
+  "name": "react-native-vector-icons",
   "version": "4.7.0",
   "description": "Customizable Icons for React Native with support for NavBar/TabBar/ToolbarAndroid, image source and full styling.",
   "main": "dist/index.js",
